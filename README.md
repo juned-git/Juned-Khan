@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Juned Khan
+# Hello, World! I'm Juned Khan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
@@ -22,7 +22,7 @@ I'm a passionate Javascript Developer 💻 with a love for coding and problem-so
 
 ### 🌱 Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-YOUR--BOOTSTRAP--VERSION-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/juned-khan-0b4950222)
